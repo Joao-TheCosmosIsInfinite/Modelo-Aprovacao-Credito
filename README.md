@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Database</h2>
-<p>Toda a base de dados foi obtida a partir de um dataset fornecido pela empresa <a href = "https://datarisk.io/">DataRisk</a></p>
+<p>Toda a base de dados foi obtida a partir de um dataset fictício fornecido pela empresa <a href = "https://datarisk.io/">DataRisk</a></p>
 
 <h2>Versioning</h2>
 <p>Esta sendo utilizado única e exclusivamente o Git no versionamento</p>
