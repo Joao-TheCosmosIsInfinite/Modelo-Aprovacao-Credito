@@ -16,6 +16,6 @@
 <p>Toda a base de dados foi obtida a partir de um dataset fictício fornecido pela empresa <a href = "https://datarisk.io/">DataRisk</a></p>
 
 <h2>Observation</h2>
-- O resultaddo final, que nesse caso é a base de teste com a coluna inadimplente predita, se econtra na pasta 'resultado_final'
-- A base de Dados é fictícia
+- O resultaddo final, que nesse caso é a base de teste com a coluna inadimplente predita, se econtra na pasta 'resultado_final'<br>
+- A base de Dados é fictícia<br>
 - Modelo postado unica e exclusivamente para estudos
